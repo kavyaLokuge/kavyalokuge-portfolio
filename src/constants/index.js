@@ -323,72 +323,72 @@ const projects = [
   //   image: maze,
   //   source_code_link: "https://github.com/kavyaLokuge/Maze-Game",
   // },
-  {
-    name: "Customized Movie Recommendation System",
-    category:"System",
-    description:
-      "This Python-based customized movie recommendation system is designed to provide personalized movie recommendations to a single user,them to filter and maintain movies based on various parameters. ",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "TKinter",
-        color: "green-text-gradient",
-      },
-      {
-        name: "System",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: movie,
-    source_code_link: "https://github.com/kavyaLokuge/Customized-Movie-Recommendation-System-",
-  },
-  {
-    name: "Sound Cores",
-    category:"Mobile App",
-    description:
-      "The application is primarily developed to identify the sound type, it gets an audio as input and then detects and displays the type of sound and a brief definition of the sound it has detected. And there are additional features provided to enhance UX",
-    tags: [
-      {
-        name: "React Native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "SCSS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: sc,
-    source_code_link: "https://github.com/kavyaLokuge/SoundCores",
-  },
-  {
-    name: "WE@FHSS",
-    category:"Mobile App",
-    description:
-      "We@FHSS is a mobile application that allows faculty members and students at the Faculty of Humanities and Social Sciences, University of Sri Jayewardenepura to access important notices, academic results, and other support services. I contributed as one of the student developers for the project.",
-    tags: [
-      {
-        name: "React Native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "SCSS",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: fhss,
-    source_code_link: "https://play.google.com/store/apps/details?id=com.sjp.fhss.dict.mobile.app",
-  },
+  // {
+  //   name: "Customized Movie Recommendation System",
+  //   category:"System",
+  //   description:
+  //     "This Python-based customized movie recommendation system is designed to provide personalized movie recommendations to a single user,them to filter and maintain movies based on various parameters. ",
+  //   tags: [
+  //     {
+  //       name: "Python",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "TKinter",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "System",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: movie,
+  //   source_code_link: "https://github.com/kavyaLokuge/Customized-Movie-Recommendation-System-",
+  // },
+  // {
+  //   name: "Sound Cores",
+  //   category:"Mobile App",
+  //   description:
+  //     "The application is primarily developed to identify the sound type, it gets an audio as input and then detects and displays the type of sound and a brief definition of the sound it has detected. And there are additional features provided to enhance UX",
+  //   tags: [
+  //     {
+  //       name: "React Native",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "JavaScript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "SCSS",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: sc,
+  //   source_code_link: "https://github.com/kavyaLokuge/SoundCores",
+  // },
+  // {
+  //   name: "WE@FHSS",
+  //   category:"Mobile App",
+  //   description:
+  //     "We@FHSS is a mobile application that allows faculty members and students at the Faculty of Humanities and Social Sciences, University of Sri Jayewardenepura to access important notices, academic results, and other support services. I contributed as one of the student developers for the project.",
+  //   tags: [
+  //     {
+  //       name: "React Native",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "JavaScript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "SCSS",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: fhss,
+  //   source_code_link: "https://play.google.com/store/apps/details?id=com.sjp.fhss.dict.mobile.app",
+  // },
   {
     name: "German Vintage Weapon Collection -3D Graphic models",
     category:" 3D Design",
