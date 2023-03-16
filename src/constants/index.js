@@ -132,7 +132,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Ecommerce Operattions Associate & Digital Marketer",
+    title: "Ecommerce Operations Associate & Digital Marketer",
     company_name: "6IXSENSES, Canada",
     icon: starbucks,
     iconBg: "#383E56",
